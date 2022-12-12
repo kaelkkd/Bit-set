@@ -7,6 +7,6 @@ Um vetor simples de bits capaz de armazenar inteiros entre 0 e 5000, os imprimin
 ## Como utilizar
 Para utilizar este programa, deve-se clonar o respositório e compilar o arquivo ***main.c***. 
 
-`https://github.com/kaelkkd/Bit-set.git`
+`$ git clone https://github.com/kaelkkd/Bit-set.git`
 
 Ao executá-lo, poderá inserir os valores desde que estejam dentro do intervalo. Após inserir os valores, basta digitar ***-1*** que o programa irá encerrar e imprimir os valores previamente digitados. Para um detalhamento mais profundo verifique o arquivo ***main.c***.
