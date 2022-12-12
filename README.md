@@ -9,4 +9,4 @@ Para utilizar este programa, deve-se clonar o respositório e compilar o arquivo
 
 `$ git clone https://github.com/kaelkkd/Bit-set.git`
 
-Em seguida, basta compilar e executar o programa utilizando `gcc main.c -o "nome"` e `./"nome"`, ao executá-lo, poderá inserir os valores desde que estejam dentro do intervalo. Após inserir os valores, basta digitar ***-1*** que o programa irá encerrar e imprimir os valores previamente digitados. Para um detalhamento mais profundo verifique o arquivo ***main.c***.
+Em seguida, basta compilar e executar o programa utilizando `gcc main.c -o "nome"` e `./"nome"`. Ao executá-lo, poderá inserir os valores desde que estejam dentro do intervalo. Após inserir os valores, basta digitar ***-1*** que o programa irá encerrar e imprimir os valores previamente digitados. Para um detalhamento mais profundo verifique o arquivo ***main.c***.
