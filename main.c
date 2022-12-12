@@ -36,7 +36,7 @@ int main() {
     }
 
     for (i = 0; i < 200; i++) {  //loop para imprimir o vetor, primeiro percorre o vetor
-        for (j = 0; j < 32; j++) {  //em seguida percorre os bits(32) do inteiro
+        for (j = 0; j < 32; j++) {  //em seguida percorre os bits do inteiro
             if (vetor[i] & (1 << j)) {  //caso o bit correspondente esteja ativado o valor sera printado
                 printf("%d\n", (i << 5) + j);   
             }
